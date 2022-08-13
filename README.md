@@ -49,11 +49,13 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQl_Server" alt="sqlServer" width="40" height="40"/>
     </div>
 </div>
+<hr/>
+:fire: My Stats :
 <div id="header" align="center">
-  
-  <br/>
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Salem-Mufarreh" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salem-Mufarreh&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salem-Mufarreh&layout=compact" />
   <br/>
