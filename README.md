@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-    <a href="#">
+    <a href="https://www.linkedin.com/in/salem-mufarreh">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
     </a>
-    <a href="djajskda-dasda">
+    <a href="mailto:salemmuf9@gmail.com">
       <img src="https://img.shields.io/badge/google-red?style=for-the-badge&logo=google&logoColor=white" alt="google Badge"/>
     </a>
     <br/>
@@ -24,13 +24,13 @@
     I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
     <br/>
     :telescope: 
-    I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+    I’m working as a Software Engineer and full stack developer for web applications.
 <br/>
     :seedling:
-    Exploring Technical Content Writing.
+    Exploring AWS.
 <br/>
     :zap: 
-    In my free time, I solve problems on GeeksforGeeks and read tech articles.
+    In my free time, I love to learn new languages.
 
 </div>
 <hr/>
